@@ -22,9 +22,10 @@ module.exports = {
         'motserrat':['motserrat','sans-serif']
       },
       maxWidth:{
-        '1220':"1240px",
-        '1185':"1185px",
+        '1270':"1270px",
+        '1196':"1196px",
         '1145':"1145px",
+        '1182':"1182px"
       },
       fontSize:{
         '34':"34px",
