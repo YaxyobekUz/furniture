@@ -6,7 +6,7 @@ module.exports = {
       colors:{
         br:{
           'primary':"#054C73",
-          'text-gray':"#333333",
+          'text-dark-gray':"#333333",
           'dark':"#111111",
           'light-gray':"#666666",
         }
@@ -19,7 +19,7 @@ module.exports = {
         'hero-light-gray':"#f1f1f1"
       },
       fontFamily:{
-        'motserrat':['motserrat','sans-serif']
+        'montserrat':['Montserrat', 'sans-serif']
       },
       maxWidth:{
         '1270':"1270px",
@@ -39,6 +39,12 @@ module.exports = {
         '29':"29.26px",
         '24':"24.38px",
         '35':"35px"
+      },
+      margin:{
+        '72':"72px",
+        '67':"67px",
+        '60':"60px",
+        '10':"10px"
       }
     },
   },
