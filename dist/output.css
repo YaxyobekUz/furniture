@@ -867,6 +867,22 @@ video {
   background-image: url(../images/hero-background-img.jpg);
 }
 
+.bg-cover {
+  background-size: cover;
+}
+
+.bg-center {
+  background-position: center;
+}
+
+.bg-repeat {
+  background-repeat: repeat;
+}
+
+.bg-no-repeat {
+  background-repeat: no-repeat;
+}
+
 .p-0 {
   padding: 0px;
 }
