@@ -25,7 +25,9 @@ module.exports = {
         '1270':"1270px",
         '1196':"1196px",
         '1183':"1183px",
-        '1145':"1145px"
+        '1145':"1145px",
+        '514':"514px",
+        '486':"486px"
       },
       width:{
         '568':"568px",
@@ -56,8 +58,12 @@ module.exports = {
       borderRadius:{
         '50':"50px"
       },
+      borderColor:{
+        'primary-dark':"#054C73"
+      },
       borderWidth:{
-        '15':"15px"
+        '15':"15px",
+        '1':"1px"
       },
       fontSize:{
         '34':"34px",
@@ -66,11 +72,12 @@ module.exports = {
       },
       lineHeight:{
         '41':"41.45px",
-        '17':"17px",
+        '39':"39px",
         '65':"65px",
+        '35':"35px",
         '29':"29.26px",
         '24':"24.38px",
-        '35':"35px",
+        '17':"17px",
         '19':"19px"
       },
       margin:{
