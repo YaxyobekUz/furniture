@@ -900,11 +900,6 @@ video {
   line-height: 1.75rem;
 }
 
-.text-xs {
-  font-size: 0.75rem;
-  line-height: 1rem;
-}
-
 .font-bold {
   font-weight: 700;
 }
@@ -951,10 +946,6 @@ video {
 
 .leading-65 {
   line-height: 65px;
-}
-
-.tracking-\[19\] {
-  letter-spacing: 19;
 }
 
 .tracking-\[3px\] {
