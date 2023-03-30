@@ -584,11 +584,6 @@ video {
   margin-right: auto;
 }
 
-.my-auto {
-  margin-top: auto;
-  margin-bottom: auto;
-}
-
 .mb-1 {
   margin-bottom: 0.25rem;
 }
@@ -613,12 +608,20 @@ video {
   margin-bottom: 1.25rem;
 }
 
+.mb-6 {
+  margin-bottom: 1.5rem;
+}
+
 .mb-72 {
   margin-bottom: 72px;
 }
 
 .mb-8 {
   margin-bottom: 2rem;
+}
+
+.mb-9 {
+  margin-bottom: 2.25rem;
 }
 
 .mr-60 {
@@ -643,14 +646,6 @@ video {
 
 .mt-9 {
   margin-top: 2.25rem;
-}
-
-.mb-6 {
-  margin-bottom: 1.5rem;
-}
-
-.mb-9 {
-  margin-bottom: 2.25rem;
 }
 
 .box-border {
@@ -729,6 +724,10 @@ video {
   max-width: 1270px;
 }
 
+.max-w-400 {
+  max-width: 400px;
+}
+
 .max-w-486 {
   max-width: 486px;
 }
@@ -739,10 +738,6 @@ video {
 
 .max-w-lg {
   max-width: 32rem;
-}
-
-.max-w-400 {
-  max-width: 400px;
 }
 
 .grow {
@@ -866,6 +861,10 @@ video {
 .bg-white {
   --tw-bg-opacity: 1;
   background-color: rgb(255 255 255 / var(--tw-bg-opacity));
+}
+
+.bg-\[url\(\.\.\/images\/hero-background-img\.jpg\)\] {
+  background-image: url(../images/hero-background-img.jpg);
 }
 
 .p-0 {
