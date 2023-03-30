@@ -554,6 +554,10 @@ video {
   display: flex;
 }
 
+.w-229 {
+  width: 229px;
+}
+
 .w-full {
   width: 100%;
 }
@@ -580,6 +584,10 @@ video {
 
 .justify-between {
   justify-content: space-between;
+}
+
+.rounded-50 {
+  border-radius: 50px;
 }
 
 .rounded-xl {
@@ -624,8 +632,16 @@ video {
   padding-bottom: 1.5rem;
 }
 
+.pb-150 {
+  padding-bottom: 150px;
+}
+
 .pr-11 {
   padding-right: 2.75rem;
+}
+
+.pt-155 {
+  padding-top: 155px;
 }
 
 .text-center {
